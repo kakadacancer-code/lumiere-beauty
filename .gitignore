@@ -1,0 +1,19 @@
+# React
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# Spring Boot
+target/
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# System
+.DS_Store
